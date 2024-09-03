@@ -4,4 +4,4 @@ Za projektno nalogo sem se odločil narediti analizo pokemonov. Vse podatke se v
 Program prebere HTML kodo s spletne strani in s pomočno regularnih izrazov izloči podatke vseh pokemonov. Te podatke zloži v csv datoteko za lažjo analizo podatkov. Podatke sem analiziral v .ipynb datoteki s pomočjo knjižnice pandas.
 
 
-Za zagon programa odpremo datoteko Poberi_podatke.py in jo poženemo. Nato odpremo Analiza.ipynb in poženemo vse celice.
+Za zagon programa odpremo datoteko Poberi_podatke.py in jo poženemo. Nato odpremo Analiza.ipynb in poženemo vse celice. Trenutno bi analiza ze morala biti opravljena v datoteki Analiza.ipynb
